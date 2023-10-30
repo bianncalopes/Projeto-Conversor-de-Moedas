@@ -104,3 +104,21 @@ section {
     font-size: 20px;
     font-weight: 700;
 }
+
+
+@media (max-width: 480px) {
+
+    .image-logo { 
+        width: 150px;
+    }
+
+    main {
+        width: 280px;
+        height: 1020px;
+        margin: 0 auto 10px;
+    }
+
+
+
+}
+    
